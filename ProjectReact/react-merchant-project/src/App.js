@@ -8,6 +8,7 @@ import SignUpPage from "./Pages/SignUp";
 import CopyRightPage from "./Footer/CopyRightsPage";
 import AppBarrs from "./Components/AppBar";
 function App() {
+
   return (
     <div className="App">
       <AppBarrs />
